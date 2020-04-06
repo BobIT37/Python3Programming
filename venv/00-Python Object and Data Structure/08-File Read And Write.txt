@@ -1,0 +1,16 @@
+Files Read and Write
+
+Python uses file objects to interact with external files on your computer.
+These file objects can be any sort of file you have on your computer, whether it be an audio
+file, a text file, emails, Excel documents, etc.
+Note: You will probably need to install
+certain libraries or modules to interact with those various file types, but they are
+easily available. (We will cover downloading modules later on in the course).
+Python has a built-in open function that allows us to open and play with basic
+file types.
+
+ "r" read
+ "a" append
+ "w" write
+ "x" create
+ open() open file to operate any function

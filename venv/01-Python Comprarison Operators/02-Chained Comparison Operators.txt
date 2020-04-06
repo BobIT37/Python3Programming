@@ -1,0 +1,7 @@
+Chained Comparison Operators
+
+An interesting feature of Python is the ability to chain multiple comparisons
+to perform a more complex test. You can use these chained comparisons as shorthand for larger Boolean
+Expressions.
+In this lecture we will learn how to chain comparison operators and we will also
+introduce two other important statements in Python: and and or.

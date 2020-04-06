@@ -1,0 +1,8 @@
+Sets
+Sets are an unordered collection of unique elements.
+We can construct them by using the set() function.
+
+Booleans
+Python comes with Booleans (with predefined True and False displays that are basically just the integers 1 and 0).
+It also has a placeholder object called None.
+

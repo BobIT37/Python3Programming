@@ -1,0 +1,18 @@
+for Loops
+
+A for loop acts as an iterator in Python; it goes through items that are in a sequence or
+any other iterable item. Objects that we've learned about that we can iterate over include strings,
+lists, tuples, and even built-in iterables for dictionaries, such as keys or values.
+We've already seen the for statement a little bit in past lectures but now let's formalize our understanding.
+Here's the general format for a for loop in Python:
+
+for item in object:
+    statements to do stuff
+
+The variable name used for the item is completely up to the coder, so use your best judgment for
+choosing a name that makes sense and you will be able to understand when revisiting your code.
+This item name can then be referenced inside your loop, for example if you wanted to use
+if statements to perform checks.
+
+Let's go ahead and work through several example of for loops using a variety of data object types.
+We'll start simple and build more complexity later on.

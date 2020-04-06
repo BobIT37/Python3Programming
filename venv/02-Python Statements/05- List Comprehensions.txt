@@ -1,0 +1,4 @@
+List Comprehensions
+
+In addition to sequence operations and list methods, Python includes a more advanced
+operation called a list comprehension.

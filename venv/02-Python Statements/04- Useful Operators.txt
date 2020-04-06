@@ -1,0 +1,13 @@
+Useful Operators
+
+range() == generate a list
+enumerate() == adds counter to an iterable and returns it
+zip() == it is used to iterate over two lists in parallel
+min() max() == to get minimum and maximum values
+random == provides access to functions that support many operations
+input == to enter value or text
+in
+
+There are a few built-in functions and "operators" in Python that don't fit well into any category,
+so we will go over them in this lecture, let's begin!
+

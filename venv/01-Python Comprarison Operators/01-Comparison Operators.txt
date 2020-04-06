@@ -1,0 +1,5 @@
+Comparison Operators
+
+In this lecture we will be learning about Comparison Operators in Python.
+These operators will allow us to compare variables and output a Boolean value (True or False).
+If you have any sort of background in Math, these operators should be very straight forward.

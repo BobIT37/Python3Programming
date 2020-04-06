@@ -1,0 +1,22 @@
+Functions
+
+Introduction to Functions
+
+This lecture will consist of explaining what a function is in Python and how to create one.
+Functions will be one of our main building blocks when we construct larger and larger amounts of code
+to solve problems.
+
+So what is a function?
+
+Formally, a function is a useful device that groups together a set of statements so they can be run more than
+once. They can also let us specify parameters that can serve as inputs to the functions.
+
+On a more fundamental level, functions allow us to not have to repeatedly write the same code again and again.
+If you remember back to the lessons on strings and lists, remember that we used a function len() to get
+the length of a string. Since checking the length of a sequence is a common task you would want
+to write a function that can do this repeatedly at command.
+
+Functions will be one of most basic levels of reusing code in Python, and it will also allow us
+to start thinking of program design (we will dive much deeper into the ideas of design
+when we learn about Object Oriented Programming).
+
