@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb7f005c-5774-4017-aa7b-63324aa44914" name="Default Changelist" comment="" />
+    <list default="true" id="fb7f005c-5774-4017-aa7b-63324aa44914" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="3ba28f26-a814-4ec2-9c0d-40ec0a5def95" />
   <component name="ProjectId" id="1ZhAeWUv0eGpAuoybzUTnJkE5WU" />
   <component name="ProjectViewState">
@@ -24,11 +30,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.02-args and kwargs">
-    <configuration name="01-Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07-Nested Statements and Scope">
+    <configuration name="04-Function Level 1 Solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Complete-Python-3-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,7 +48,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/01-Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/04-Function Level 1 Solutions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -50,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02-args and kwargs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-Function Level 2 Solutions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Complete-Python-3-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +70,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/02-args and kwargs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/05-Function Level 2 Solutions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03- while Loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-Map Filter Functions and Lambda Expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Complete-Python-3-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/02-Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/03-Methods and Functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/02-Python Statements/03- while Loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/06-Map Filter Functions and Lambda Expressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04- Useful Operators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-Nested Statements and Scope" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Complete-Python-3-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,12 +109,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/02-Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/03-Methods and Functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/02-Python Statements/04- Useful Operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/07-Nested Statements and Scope.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05- List Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dene" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Complete-Python-3-Bootcamp" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/02-Python Statements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/03-Methods and Functions" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/02-Python Statements/05- List Comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/03-Methods and Functions/dene.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02-args and kwargs" />
-        <item itemvalue="Python.01-Functions" />
-        <item itemvalue="Python.05- List Comprehensions" />
-        <item itemvalue="Python.04- Useful Operators" />
-        <item itemvalue="Python.03- while Loops" />
+        <item itemvalue="Python.07-Nested Statements and Scope" />
+        <item itemvalue="Python.dene" />
+        <item itemvalue="Python.06-Map Filter Functions and Lambda Expressions" />
+        <item itemvalue="Python.05-Function Level 2 Solutions" />
+        <item itemvalue="Python.04-Function Level 1 Solutions" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +174,9 @@
       <workItem from="1586140703177" duration="3544000" />
       <workItem from="1586145406888" duration="1651000" />
       <workItem from="1586147392988" duration="398000" />
+      <workItem from="1586148774776" duration="255000" />
+      <workItem from="1586197995115" duration="2700000" />
+      <workItem from="1586304885114" duration="8234000" />
     </task>
     <servers />
   </component>
@@ -178,26 +188,26 @@
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="558" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.974@0.23.1680.974" timestamp="1585775450146" />
-    <state width="1632" height="178" key="GridCell.Tab.0.bottom" timestamp="1586147062096">
+    <state width="1632" height="236" key="GridCell.Tab.0.bottom" timestamp="1586313598690">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state width="1638" height="375" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1585287495197" />
-    <state width="1632" height="178" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1586147062096" />
-    <state width="1632" height="178" key="GridCell.Tab.0.center" timestamp="1586147062095">
+    <state width="1632" height="236" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1586313598690" />
+    <state width="1632" height="236" key="GridCell.Tab.0.center" timestamp="1586313598689">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state width="1638" height="375" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1585287495196" />
-    <state width="1632" height="178" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1586147062095" />
-    <state width="1632" height="178" key="GridCell.Tab.0.left" timestamp="1586147062095">
+    <state width="1632" height="236" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1586313598689" />
+    <state width="1632" height="236" key="GridCell.Tab.0.left" timestamp="1586313598689">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state width="1638" height="375" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1585287495195" />
-    <state width="1632" height="178" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1586147062095" />
-    <state width="1632" height="178" key="GridCell.Tab.0.right" timestamp="1586147062096">
+    <state width="1632" height="236" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1586313598689" />
+    <state width="1632" height="236" key="GridCell.Tab.0.right" timestamp="1586313598690">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state width="1638" height="375" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1585287495197" />
-    <state width="1632" height="178" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1586147062096" />
+    <state width="1632" height="236" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1586313598690" />
     <state x="341" y="149" key="SettingsEditor" timestamp="1585343631669">
       <screen x="0" y="23" width="1680" height="974" />
     </state>
@@ -219,15 +229,21 @@
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$den.coverage" NAME="den Coverage Results" MODIFIED="1585629488855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$08_FileReadAndWrite.coverage" NAME="08-FileReadAndWrite Coverage Results" MODIFIED="1585757021584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$03__while_Loops.coverage" NAME="03- while Loops Coverage Results" MODIFIED="1585843771558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02-Python Statements" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$07_Nested_Statements_and_Scope.coverage" NAME="07-Nested Statements and Scope Coverage Results" MODIFIED="1586313598682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$01_Numbers.coverage" NAME="01-Numbers Coverage Results" MODIFIED="1585319333656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$03_Strings.coverage" NAME="03-Strings Coverage Results" MODIFIED="1585326571529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$05_Function_Level_2_Solutions.coverage" NAME="05-Function Level 2 Solutions Coverage Results" MODIFIED="1586306830966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$06_Dictionaries.coverage" NAME="06-Dictionaries Coverage Results" MODIFIED="1585626995713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$02__for_Loops.coverage" NAME="02- for Loops Coverage Results" MODIFIED="1585781198641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02-Python Statements" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$02_VariablesAssignments.coverage" NAME="02-VariablesAssignments Coverage Results" MODIFIED="1585319965961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$04_Function_Level_1_Solutions.coverage" NAME="04-Function Level 1 Solutions Coverage Results" MODIFIED="1586305543724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$dene.coverage" NAME="dene Coverage Results" MODIFIED="1586312378956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$Lists.coverage" NAME="Lists Coverage Results" MODIFIED="1585624177122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$06_Map_Filter_Functions_and_Lambda_Expressions.coverage" NAME="06-Map Filter Functions and Lambda Expressions Coverage Results" MODIFIED="1586311155230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$04__Useful_Operators.coverage" NAME="04- Useful Operators Coverage Results" MODIFIED="1585846680112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02-Python Statements" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$07_SetsAndBooleans.coverage" NAME="07-SetsAndBooleans Coverage Results" MODIFIED="1585628543443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/00-Python Object and Data Structure" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$02_args_and_kwargs.coverage" NAME="02-args and kwargs Coverage Results" MODIFIED="1586146777120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
     <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$05__List_Comprehensions.coverage" NAME="05- List Comprehensions Coverage Results" MODIFIED="1585848375917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/02-Python Statements" />
+    <SUITE FILE_PATH="coverage/Complete_Python_3_Bootcamp$03_Function_Practice_Solutions.coverage" NAME="03-Function Practice Solutions Coverage Results" MODIFIED="1586200211821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/03-Methods and Functions" />
   </component>
 </project>
