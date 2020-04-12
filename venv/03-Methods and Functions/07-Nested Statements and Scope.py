@@ -46,7 +46,7 @@ print(len(name))
 #local variables
 
 x = 50 #global
-
+    
 def func(x):
     print('x is ', x)
     x = 2 #local
